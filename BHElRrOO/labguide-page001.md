@@ -54,3 +54,7 @@
 
 ![images.jpg](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Srinika-QA/Soudamini-Test-lab-guides/main/BHElRrOO/images/images.jpg?token=8b2t1Sg45N8JBe8QNwBlyhJq)
 
+***
+
+[pdf](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+
