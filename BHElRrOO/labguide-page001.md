@@ -29,3 +29,13 @@
 
 ![PNG](https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png)
 
+![GIF](https://upload.wikimedia.org/wikipedia/commons/d/de/Ajax-loader.gif)
+
+![Animated gif](https://media.tenor.com/On7kvXhzml4AAAAC/loading-gif.gif)
+
+![SVG](https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg)
+
+![webp](https://www.gstatic.com/webp/gallery/1.webp)
+
+![ico](https://www.microsoft.com/favicon.ico)
+
