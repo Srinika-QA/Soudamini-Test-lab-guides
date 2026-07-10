@@ -87,3 +87,66 @@
 ***
 [masterdoc-(4)](https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/Srinika-QA/Soudamini-Test-lab-guides/main/BHElRrOO/files/masterdoc-(4).json)
 
+***
+
+| Food 1 | Price 2 |
+|----------|----------|
+| abc | 100 |
+| def | 200 |
+
+| Column 1 | Column 2 |
+|----------|----------|
+| Cell | Cell |
+
+| Column 1 |
+|----------|
+| Cell |
+| Cell |
+
+***
+
+```Numbers
+0
+1
+-1
+42
+1234567890
+3.14159
+-999999999999999999
+1e10
+```
+```Characters
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+```
+```Special Characters
+! @ # $ % ^ & * ( ) _ + - = { } [ ] | \ : ; " ' < > , . ? /
+```
+```Unicode
+é ñ ü ç å Ω π ∑ ∞ ✓ ✗ © ® ™ §
+```
+```Emoji
+😀 😃 😄 😁 😂 🤣 😊 😍 🤔 😎
+🔥 💯 🚀 ⭐ ❤️ 💙 💚 💛 🖤 🤍
+🎉 🎁 🍕 ☕ 🌍 🌈 ⚡ 🎵 📚
+```
+```Mixed Text
+Hello123! 😀
+Test_@#₹€£¥
+```
+```Different Languages
+English
+हिन्दी
+தமிழ்
+తెలుగు
+ಕನ್ನಡ
+বাংলা
+ગુજરાતી
+ਪੰਜਾਬੀ
+中文
+日本語
+한국어
+Русский
+العربية
+עברית
+```
