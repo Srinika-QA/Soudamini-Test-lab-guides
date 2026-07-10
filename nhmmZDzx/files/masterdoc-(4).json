@@ -1,0 +1,40 @@
+[
+  {
+    "Name": "Lab-Guide-Setup-17-06",
+    "Language": "English",
+    "Files": [
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/ankitSpektra/LabGuideNew/main/0R8dwUp1/labguide-page001.md",
+        "PageDuration": 0,
+        "Order": 1
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/ankitSpektra/LabGuideNew/main/0R8dwUp1/labguide-page002.md",
+        "PageDuration": 0,
+        "Order": 2
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/ankitSpektra/LabGuideNew/main/0R8dwUp1/labguide-page003.md",
+        "PageDuration": 0,
+        "Order": 3
+      },
+      {
+        "RawFilePath": "https://docs-api-qa.cloudlabs.ai/repos/raw.githubusercontent.com/ankitSpektra/LabGuideNew/main/0R8dwUp1/labguide-page004.md",
+        "PageDuration": 0,
+        "Order": 4,
+        "UnlockingRules": [
+          {
+            "UnlockDependency": "Questions",
+            "UnlockCriteria": "Answered",
+            "DependentQuestions": [
+              "labguidepage001A50ZtUAW",
+              "labguidepage0015IEQYZVV",
+              "labguidepage002LQZUGtoQ",
+              "labguidepage0023nyxSl0U"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
