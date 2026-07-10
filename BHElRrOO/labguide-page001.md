@@ -150,3 +150,52 @@ English
 العربية
 עברית
 ```
+
+```URLs & Email
+https://example.com
+https://sub.domain.com/path?query=test#anchor
+user@example.com
+```
+
+```Long String
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+```
+
+```Whitespace
+Leading spaces
+    Four spaces
+        Eight spaces
+Tabs	Between	Text
+```
+
+```Empty Lines
+```
+
+```Markdown
+**Bold**
+*Italic*
+~~Strikethrough~~
+`Inline code`
+```
+
+```Font Styles (shown as Unicode characters)
+𝐁𝐨𝐥𝐝
+𝘐𝘵𝘢𝘭𝘪𝘤
+𝙼𝚘𝚗𝚘
+𝓢𝓬𝓻𝓲𝓹𝓽
+𝔉𝔯𝔞𝔨𝔱𝔲𝔯
+𝔻𝕠𝕦𝕓𝕝𝕖 𝕊𝕥𝕣𝕦𝕔𝕜
+🅱🅻🅾🅲🅺
+ⓒⓘⓡⓒⓛⓔⓓ
+```
+```Colored Emoji
+🔴 🟠 🟡 🟢 🔵 🟣 ⚫ ⚪ 🟤
+🟥 🟧 🟨 🟩 🟦 🟪 ⬛ ⬜ 🟫
+```
+
+```Box Drawing
+┌──────────────┐
+│ Hello World! │
+└──────────────┘
+```
+
