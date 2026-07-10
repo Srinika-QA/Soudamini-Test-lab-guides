@@ -6,4 +6,3 @@
 
 <inject key="displayname" cloudname="AZURE" enableCopy="true" enableClickToPaste="true"/>
 
-***
